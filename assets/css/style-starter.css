@@ -10043,7 +10043,7 @@ a.brand-logo img {
 
 @media (max-width: 667px) {
   .w3l-banner-slider .carousel-item {
-    min-height: 35em; } }
+    min-height: 13em; } }
 
 @media (max-width: 600px) {
   .w3l-banner-slider h3.title-cover-9 {
@@ -10055,7 +10055,7 @@ a.brand-logo img {
     line-height: 36px;
     margin: 15px 0; }
   .w3l-banner-slider .carousel-item {
-    min-height: 30em; }
+    min-height: 13em; }
   .w3l-banner-slider .carousel-caption {
     top: 40%; } }
 
@@ -10074,7 +10074,7 @@ a.brand-logo img {
   .w3l-banner-slider p.para-cover-9 {
     font-size: 16px; }
   .w3l-banner-slider .carousel-item {
-    min-height: 28em; } }
+    min-height: 13em; } }
 
 @media (max-width: 320px) {
   .w3l-banner-slider h3.title-cover-9 {
@@ -11174,6 +11174,7 @@ button.owl-next {
   background-attachment: fixed;
   display: grid;
   align-items: center;
+   
   padding: 7rem 0; }
 
 .w3l-about4 .middle-section {
